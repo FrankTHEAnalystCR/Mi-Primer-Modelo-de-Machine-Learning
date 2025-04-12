@@ -1,4 +1,4 @@
-**Etapas de un problema de Machine Learning**
+# Etapas de un problema de Machine Learning
 
 * **Definir el problema:** Que se pretende predecir? o Que datos es necesario conseguir?
 * **Explorar y entender** los datos para crear el modelo
